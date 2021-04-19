@@ -9,4 +9,4 @@ Agustina Undabarrena, Ricardo Valencia, Andrés Cumsille, Leonardo Zamora-Leiva,
 3.
 4.
 
-Also there are two additional scripts for metadata extraction for a particular GCF, and a previsualization of the BGC network using the bokeh and graphviz packages.
+Also there are two additional scripts for metadata extraction of a particular GCF, and a previsualization of the BGC network using the bokeh and graphviz packages in Python.
